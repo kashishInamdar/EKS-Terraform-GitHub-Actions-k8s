@@ -7,7 +7,7 @@ Welcome to the repository for **Configuring Production-Ready EKS Clusters with T
 
 **Refrance Totorial .**
 
-[![Watch the video](https://img.youtube.com/vi/witZ5ES_QVc/hqdefault.jpg)](https://youtu.be/witZ5ES_QVc?si=DKkZ_1bDVoWr-tta)
+[![Watch the video](https://youtu.be/witZ5ES_QVc?si=DKkZ_1bDVoWr-tta)
 
 ## 🌟 Overview
 This project covers:
